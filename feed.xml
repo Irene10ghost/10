@@ -3,12 +3,26 @@
     <title>Ghost</title>
     <link href="https://Irene10ghost.github.io/10/feed.xml" rel="self" />
     <link href="https://Irene10ghost.github.io/10" />
-    <updated>2024-05-09T21:43:25+08:00</updated>
+    <updated>2024-05-09T21:52:02+08:00</updated>
     <author>
         <name>10</name>
     </author>
     <id>https://Irene10ghost.github.io/10</id>
 
+    <entry>
+        <title>TASTE</title>
+        <author>
+            <name>10</name>
+        </author>
+        <link href="https://Irene10ghost.github.io/10/taste.html"/>
+        <id>https://Irene10ghost.github.io/10/taste.html</id>
+        <media:content url="https://Irene10ghost.github.io/10/media/posts/3/What-Potato-Chip-Flavor-Are-You_.jpg" medium="image" />
+            <category term="like"/>
+
+        <updated>2024-05-09T21:48:56+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>FLAVORS</title>
         <author>

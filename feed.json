@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://Irene10ghost.github.io/10/taste.html",
+            "url": "https://Irene10ghost.github.io/10/taste.html",
+            "title": "TASTE",
+            "image": "https://Irene10ghost.github.io/10/media/posts/3/What-Potato-Chip-Flavor-Are-You_.jpg",
+            "author": {
+                "name": "10"
+            },
+            "tags": [
+                   "like"
+            ],
+            "date_published": "2024-05-09T21:48:56+08:00",
+            "date_modified": "2024-05-09T21:52:02+08:00"
+        },
+        {
             "id": "https://Irene10ghost.github.io/10/address.html",
             "url": "https://Irene10ghost.github.io/10/address.html",
             "title": "FLAVORS",
