@@ -3,10 +3,38 @@
     <title>Ghost</title>
     <link href="https://Irene10ghost.github.io/10/feed.xml" rel="self" />
     <link href="https://Irene10ghost.github.io/10" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-05-09T21:10:52+08:00</updated>
     <author>
         <name>10</name>
     </author>
     <id>https://Irene10ghost.github.io/10</id>
 
+    <entry>
+        <title>ADDRESS</title>
+        <author>
+            <name>10</name>
+        </author>
+        <link href="https://Irene10ghost.github.io/10/address.html"/>
+        <id>https://Irene10ghost.github.io/10/address.html</id>
+        <media:content url="https://Irene10ghost.github.io/10/media/posts/2/Best-Brunch-and-Breakfast-in-Chicago-Limitless-Secrets.jpg" medium="image" />
+            <category term="like"/>
+
+        <updated>2024-05-09T21:02:37+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>FOOD</title>
+        <author>
+            <name>10</name>
+        </author>
+        <link href="https://Irene10ghost.github.io/10/food.html"/>
+        <id>https://Irene10ghost.github.io/10/food.html</id>
+        <media:content url="https://Irene10ghost.github.io/10/media/posts/1/7-Thanksgiving-Dinner-Ideas-Munchkin-Time.jpg" medium="image" />
+            <category term="Eat"/>
+
+        <updated>2024-05-09T21:02:20+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
