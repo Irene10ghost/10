@@ -3,14 +3,14 @@
     <title>Ghost</title>
     <link href="https://Irene10ghost.github.io/10/feed.xml" rel="self" />
     <link href="https://Irene10ghost.github.io/10" />
-    <updated>2024-05-09T21:10:52+08:00</updated>
+    <updated>2024-05-09T21:43:25+08:00</updated>
     <author>
         <name>10</name>
     </author>
     <id>https://Irene10ghost.github.io/10</id>
 
     <entry>
-        <title>ADDRESS</title>
+        <title>FLAVORS</title>
         <author>
             <name>10</name>
         </author>
@@ -20,8 +20,18 @@
             <category term="like"/>
 
         <updated>2024-05-09T21:02:37+08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://Irene10ghost.github.io/10/media/posts/2/Best-Brunch-and-Breakfast-in-Chicago-Limitless-Secrets.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://Irene10ghost.github.io/10/media/posts/2/Best-Brunch-and-Breakfast-in-Chicago-Limitless-Secrets.jpg" class="type:primaryImage" alt="" /></p>
+                <h1> </h1>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>FOOD</title>
