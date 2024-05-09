@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ghost",
+    "description": "",
+    "home_page_url": "https://Irene10ghost.github.io/10",
+    "feed_url": "https://Irene10ghost.github.io/10/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "10"
+    },
+    "items": [
+    ]
+}

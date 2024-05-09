@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Irene10ghost.github.io/10/sitemap.xml
